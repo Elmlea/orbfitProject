@@ -1,0 +1,66 @@
+GFORTRAN module version '10' created from ra15_mod.f90
+MD5:97c821e669904dee01376fc38ddc787b -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () ()
+() () () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'deriv_safe' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (LOGICAL 4 0 0 0 LOGICAL ()) 0 0 () () 0 () () () 0
+0)
+3 'eprk_r' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+4 'hev' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+5 'iusci' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+6 'lit1_r' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0
+0)
+7 'lit1_rc' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0
+0)
+8 'lit2_r' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0
+0)
+9 'lit2_rc' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0
+0)
+10 'llev' 'ra15_mod' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+11 'ra15' 'ra15_mod' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL
+UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 12 0 (13 14 15 16
+17 18 19 20) () 0 () () () 0 0)
+13 'x' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0
+INTEGER ()) 0 '6627')) 0 () () () 0 0)
+14 'v' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0
+0 DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0
+INTEGER ()) 0 '6627')) 0 () () () 0 0)
+15 'tini' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+16 'tfin' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+17 'tcur' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+18 'nv' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN
+0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+19 'nclass' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+20 'idcend' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+)
+
+('deriv_safe' 0 2 'eprk_r' 0 3 'hev' 0 4 'iusci' 0 5 'lit1_r' 0 6
+'lit1_rc' 0 7 'lit2_r' 0 8 'lit2_rc' 0 9 'llev' 0 10 'ra15' 0 11)

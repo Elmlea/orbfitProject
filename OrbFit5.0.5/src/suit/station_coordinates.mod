@@ -1,0 +1,79 @@
+GFORTRAN module version '10' created from station_coordinates.f90
+MD5:d41f5aa3a3d1ec36d5d132e34b166421 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () ()
+() () () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'cartesian_to_geodetic' 'station_coordinates' '' 1 ((PROCEDURE
+UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE ALWAYS_EXPLICIT)
+(UNKNOWN 0 0 0 0 UNKNOWN ()) 3 0 (4 5 6 7 8) () 0 () () () 0 0)
+9 'codestat' 'station_coordinates' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 10
+0 (11 12) () 0 () () () 0 0)
+13 'geodetic_to_cartesian' 'station_coordinates' '' 1 ((PROCEDURE
+UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE IMPLICIT_PURE) (
+UNKNOWN 0 0 0 0 UNKNOWN ()) 14 0 (15 16 17 18) () 0 () () () 0 0)
+19 'obscoo' 'station_coordinates' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE ALWAYS_EXPLICIT) (UNKNOWN 0 0 0
+0 UNKNOWN ()) 20 0 (21 22 23 24) () 0 () () () 0 0)
+25 'statcode' 'station_coordinates' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 26
+0 (27 28) () 0 () () () 0 0)
+4 'x' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DIMENSION
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (CONSTANT (INTEGER 4
+0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '3'))
+0 () () () 0 0)
+5 'longitude' '' '' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+6 'latitude' '' '' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+7 'altitude' '' '' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+8 'vertical' '' '' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION OPTIONAL DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0
+INTEGER ()) 0 '3')) 0 () () () 0 0)
+11 'iobs' '' '' 10 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+12 'obsstr' '' '' 10 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (CHARACTER 1 0 0 0 CHARACTER ((CONSTANT (INTEGER 4 0
+0 0 INTEGER ()) 0 '3'))) 0 0 () () 0 () () () 0 0)
+15 'longitude' '' '' 14 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+16 'latitude' '' '' 14 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+17 'altitude' '' '' 14 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+18 'x' '' '' 14 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0 INTEGER ())
+0 '3')) 0 () () () 0 0)
+21 'idobs' '' '' 20 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+22 'xbf' '' '' 20 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0 INTEGER ())
+0 '3')) 0 () () () 0 0)
+23 'name' '' '' 20 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(CHARACTER 1 0 0 0 CHARACTER (())) 0 0 () () 0 () () () 0 0)
+24 'shiftst' '' '' 20 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+OPTIONAL DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+27 'obsstr' '' '' 26 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (CHARACTER 1 0 0 0 CHARACTER ((CONSTANT (INTEGER 4 0
+0 0 INTEGER ()) 0 '3'))) 0 0 () () 0 () () () 0 0)
+28 'iobs' '' '' 26 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+)
+
+('cartesian_to_geodetic' 0 2 'codestat' 0 9 'geodetic_to_cartesian' 0 13
+'obscoo' 0 19 'statcode' 0 25)

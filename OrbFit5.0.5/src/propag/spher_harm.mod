@@ -1,0 +1,69 @@
+GFORTRAN module version '10' created from spher_harm.f90
+MD5:d90ad90e2e724a2117a0507002da6841 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () ()
+() () () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'geopot' 'spher_harm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 3 0 (4) () 0 ()
+() () 0 0)
+5 'gm_planet' 'spher_harm' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0
+0)
+6 'harmco' 'spher_harm' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0 DIMENSION) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0
+EXPLICIT (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '2601')) 0 () () () 0 0)
+7 'ites' 'spher_harm' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () ()
+() 0 0)
+8 'itesx' 'spher_harm' '' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '50') () 0 () () () 0 0)
+9 'modfile' 'spher_harm' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (CHARACTER 1 0 0 0 CHARACTER ((CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '50'))) 0 0 () () 0 () () () 0 0)
+10 'narmx' 'spher_harm' '' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '2601') () 0 () () () 0 0)
+11 'numcoe' 'spher_harm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 FUNCTION IMPLICIT_PURE) (INTEGER 4 0 0 0 INTEGER ()) 12
+0 (13) () 11 () () () 0 0)
+14 'parm10' 'spher_harm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 15 0 (16 17 18
+19) () 0 () () () 0 0)
+20 'r_planet' 'spher_harm' '' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE 0 0) (REAL 8 0 0 0 REAL ()) 0 0 () () 0 () () () 0
+0)
+4 'ites' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+13 'ites' '' '' 12 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+16 'x' '' '' 15 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DIMENSION
+DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (1 0 EXPLICIT (CONSTANT (INTEGER 4
+0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '3'))
+0 () () () 0 0)
+17 'ites' '' '' 15 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+18 'arm' '' '' 15 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (3 0 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 0 INTEGER ())
+0 '3') (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER
+4 0 0 0 INTEGER ()) 0 '4') (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1')
+(CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '2601')) 0 () () () 0 0)
+19 'partials' '' '' 15 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (LOGICAL 4 0 0 0 LOGICAL ()) 0 0 () () 0 () () () 0 0)
+)
+
+('geopot' 0 2 'gm_planet' 0 5 'harmco' 0 6 'ites' 0 7 'itesx' 0 8
+'modfile' 0 9 'narmx' 0 10 'numcoe' 0 11 'parm10' 0 14 'r_planet' 0 20)

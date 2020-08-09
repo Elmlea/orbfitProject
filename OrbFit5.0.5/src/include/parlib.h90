@@ -1,0 +1,2 @@
+! Default library directory
+CHARACTER(LEN=100), PARAMETER :: dlibd = '/Users/markwharry/Dropbox/Mark/Files/Programming/PyCharm/orbfitproject/OrbFit5.0.5/lib'
